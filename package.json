@@ -1,0 +1,20 @@
+{
+  "name": "pumpkin-dash",
+  "private": true,
+  "version": "1.0.0",
+  "description": "PUMPKIN DASH - a first-person Halloween fitness runner for kids' brain-break videos.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "mp4-muxer": "^5.2.2",
+    "three": "^0.170.0",
+    "webm-muxer": "^5.1.4"
+  },
+  "devDependencies": {
+    "vite": "^5.4.10"
+  }
+}
